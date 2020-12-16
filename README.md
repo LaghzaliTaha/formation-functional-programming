@@ -9,5 +9,5 @@ examples of First class function (function as data , function as argument , retu
 example of Higher Order Function <br>
 example of javascript tricks (init param at call , init param with spread operator)<br>
     example of importing svg as a react component<br></p>
-<details>
+</details>
 

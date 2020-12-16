@@ -1,0 +1,21 @@
+{
+  "name": "formation-beit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "eslint-plugin-immutable": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0"
+  }
+}

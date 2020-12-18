@@ -8,3 +8,11 @@ Example of Higher Order Function <br>
 Example of javascript tricks (init param at call , init param with spread operator)<br>
 Example of importing svg as a react component<br></p>
 
+To run the examples on nodejs, please run the following commands:
+
+npm install 
+
+for executing a file for example :
+
+npx babel-node HigherOrderFunction.js
+

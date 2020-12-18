@@ -5,5 +5,7 @@ const arr=[double,minusOne,addTwo]
 let number=41
 arr.forEach(e=>number=e(number))
 console.log(number)
+
 const createMultiplier = x => y => x*y
-const double = createMultiplier(2)
+const doubleOf = createMultiplier(2)
+console.log(doubleOf(6))

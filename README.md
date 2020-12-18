@@ -1,6 +1,4 @@
-# formation-functional-programming / some javascript tricks
-exercises examples for the course functional programming in javascript
-
+# formation-functional-programming
  this code source contains the following examples :  
   <p>
 Example shows the importance of immutability (issue due to mutable state)<br>

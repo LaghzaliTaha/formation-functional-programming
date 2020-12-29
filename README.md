@@ -7,6 +7,7 @@ Examples of First class function (function as data , function as argument , retu
 Example of Higher Order Function <br>
 Example of javascript tricks (init param at call , init param with spread operator)<br>
 Example of importing svg as a react component<br></p>
+Example of re-creating map function
 
 To run the examples on nodejs, please run the following commands:
 

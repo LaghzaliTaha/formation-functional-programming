@@ -4,7 +4,7 @@
 Example shows the importance of immutability (issue due to mutable state)<br>
 Arrow function syntax<br />
 curring and partial application<br />
-First class function (function as data , function as argument , returning function , partial application)<br>
+First class function (function as data , function as argument , returning function , partial application/currying)<br>
 Higher Order Function <br>
 javascript tricks (init param at call , init param with spread operator)<br>
 importing svg as a react component<br></p>

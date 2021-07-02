@@ -12,9 +12,9 @@ re-creating map function<br>
 
 To run the examples on nodejs, please run the following commands:
 
-npm install 
+1/ npm install 
 
-for executing a file for example :
+2/ for executing a file for example :
 
-npx babel-node HigherOrderFunction.js
+3/ npx babel-node HigherOrderFunction.js
 
